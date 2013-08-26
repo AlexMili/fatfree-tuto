@@ -129,6 +129,7 @@ Pour les non-anglophones "autoload" signifie chargement automatique. Cette fonct
 C'est sur ces fonctionnalités essentiels que je m'arrête aujourd'hui. Le but de cet article était de vous faire découvrir le framework FatFree. J'èspère vous avoir donné envie de découvrir plus profondément ce framework.
 
 Pour aller plus loin
+-------------
 
 Pour ceux qui aimeraient aller plus loin je vous recommande le Github du projet qui est extrèmement bien documenté :
 [https://github.com/bcosca/fatfree](https://github.com/bcosca/fatfree)
